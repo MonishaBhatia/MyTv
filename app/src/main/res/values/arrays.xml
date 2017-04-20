@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<array name="item_sort">
+
+    <item>@string/sort</item>
+    <item>@string/sort_lh_menu</item>
+    <item>@string/sort_hl_menu</item>
+    <item>@string/sort_az_menu</item>
+    <item>@string/sort_za_menu</item>
+
+</array>
+
+
+</resources>

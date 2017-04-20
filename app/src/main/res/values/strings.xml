@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyTv</string>
+
+    <string name="my_favorites">My Favourites</string>
+
+    <string name="view_all"><u>View All Channels</u></string>
+
+    <string name="tv_guide">Currently Airing</string>
+
+    <string name="sort">Sort</string>
+    <string name="sort_lh">Channel Number low to high</string>
+    <string name="sort_hl">Channel Number high to low</string>
+    <string name="sort_az">Channel Name A to Z</string>
+    <string name="sort_za">Channel Name Z to A</string>
+
+    <string name="sort_lh_menu">Low-High</string>
+    <string name="sort_hl_menu">High-Low</string>
+    <string name="sort_az_menu">A to Z</string>
+    <string name="sort_za_menu">Z to A</string>
+</resources>
